@@ -29,3 +29,7 @@ For **Overview** and **Call for papers** and other sections, edit `index.md`.
 To add a **Speaker**, add a `_speakers/someone.md` page.
 
 There will be *Schedule* and *Papers* pages after the workshop proposal is accepted.
+
+## Deploy the page
+
+Yang should follow the instructions in https://jekyllrb.com/docs/continuous-integration/github-actions/. Please edit the main branch only.
