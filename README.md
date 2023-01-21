@@ -1,40 +1,34 @@
-# sniffle-workshop
-
-`sniffle` is an easy-to-use [Jekyll](https://jekyllrb.com/) theme, developed primarily for hosting workshop webpages in the AI / ML communities. `sniffle` automates many of the mundane tasks needed for workshop webpages, including:
-
-* curating **speaker** lists
-* curating **organizer** lists
-* populating **schedule** webpages
-* managing a list of **accepted papers**
-
-`sniffle` came about because of a [lazy grad student](https://krrish94.github.io)'s need to avoid the agonizing pain that went into populating the [DiffCVGP](https://montrealrobotics.ca/diffcvgp) and [Rethinking ML Papers](https://rethinkingmlpapers.github.io) workshop webpages. `sniffle` is based on Jekyll's default (and first) `minima` theme.
-
-
-**Here's a [preview webpage](https://krrish94.github.io/sniffle-workshop) for the theme.**
-
-Here's sample screenshots of various pages!
-
-![sniffle-workshop theme preview](assets/img/screenshot-home.png) ![sniffle-workshop theme preview](assets/img/screenshot-papers.png) ![sniffle-workshop theme preview](assets/img/screenshot-schedule.png) ![sniffle-workshop theme preview](assets/img/screenshot-speakers.png)
-
-## Installing Jekyll
-
-For more about how to use Jekyll, check out [these installation instructions](https://jekyllrb.com/docs/installation/).
-Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
-
+# RSS 2023 Workshop on Learning for Task and Motion Planning
 
 ## Installation
 
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first [fork](https://guides.github.com/activities/forking/) the theme from `github.com:krrish94/sniffle-workshop` to `github.com:<your-username>/<your-repo-name>` and do the following:
+Install [Ruby](https://www.ruby-lang.org/en/downloads/), [Bundler](https://bundler.io/), and Jekyll. For ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*).
 
-```bash
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
-$ cd <your-repo-name>
-$ bundle install
-$ bundle exec jekyll serve
+```
+## on macOS, somehow I have to use sudo for `gem`
+brew install ruby
+brew install rbenv ruby-build
+sudo gem install bundler jekyll
 ```
 
-Now, feel free to customize the theme to your liking!
+Serve the website
 
+```bash
+$ git clone git@github.com:zt-yang/rss23-l4tamp-workshop.git
+$ cd rss23-l4tamp-workshop
+$ sudo bundle install
+$ bundle exec jekyll serve
+## if I want instant update while I make changes to md files
+$ sudo bundle exec jekyll serve --incremental --trace
+```
+
+## Modify the page
+
+For **Overview** and **Call for papers** and other sections, edit `index.md`.
+
+To add a **Speaker**, add a `_speakers/someone.md` page.
+
+---------
 
 ## Using the theme
 
