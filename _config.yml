@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Learning for TAMP @ RSS 2023
+title: L4TAMP @ RSS 2023
 email: ztyang@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Proposed RSS 2023 workshop schedule for Learning for Task and Motion Planning
+  Proposed RSS 2023 workshop for Learning for Task and Motion Planning (L4TAMP)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
