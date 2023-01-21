@@ -32,4 +32,6 @@ There will be *Schedule* and *Papers* pages after the workshop proposal is accep
 
 ## Deploy the page
 
-Yang should follow the instructions in https://jekyllrb.com/docs/continuous-integration/github-actions/. Please edit the main branch only.
+The page should update live on https://zt-yang.github.io/rss23-l4tamp-workshop/ whenever you push to main branch.
+
+The GitHub Action is set up following instructions in https://jekyllrb.com/docs/continuous-integration/github-actions/. You don't have to worry about it.
