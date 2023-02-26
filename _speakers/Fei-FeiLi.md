@@ -18,8 +18,11 @@ img_url: https://profiles.stanford.edu/proxy/api/cap/profiles/15052/resources/pr
 # affil2:
 # Link to the secondary affiliation
 # affil2_link:
+
+topic: Benchmarks
+
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Dr. Fei-Fei Li is the inaugural Sequoia Professor in the Computer Science Department at Stanford University, and Co-Director of Stanford’s Human-Centered AI Institute. Dr. Fei-Fei Li’s current research interests include cognitively inspired AI, machine learning, deep learning, computer vision and AI+healthcare especially ambient intelligent systems for healthcare delivery. I
+Fei-Fei Li is the inaugural Sequoia Professor in the Computer Science Department at Stanford University, and Co-Director of Stanford’s Human-Centered AI Institute. Her current research interests include cognitively inspired AI, machine learning, deep learning, computer vision and AI+healthcare especially ambient intelligent systems for healthcare delivery.

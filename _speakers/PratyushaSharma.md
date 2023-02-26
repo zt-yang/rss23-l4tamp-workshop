@@ -18,8 +18,11 @@ img_url: https://pratyushasharma.github.io/assets/pratyusha.jpg
 # affil2:
 # Link to the speaker's secondary affiliation
 # affil2_link:
+
+topic: Language
+
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Pratyusha is a PhD student in EECS at MIT advised by Prof. Antonio Torralba and Prof. Jacob Andreas. Her research goal is to understand what can be learnt from rich multimodal interactions (vision, touch and sounds) with objects (and people) in the world around us. She is also interested in developing systems that enable robots to efficiently abstract knowledge across tasks, reason, understand goals and reliably interact in the real world.
+Pratyusha Sharma is a PhD student in EECS at MIT advised by Prof. Antonio Torralba and Prof. Jacob Andreas. Her research goal is to understand what can be learnt from rich multimodal interactions (vision, touch and sounds) with objects (and people) in the world around us. She is also interested in developing systems that enable robots to efficiently abstract knowledge across tasks, reason, understand goals and reliably interact in the real world.

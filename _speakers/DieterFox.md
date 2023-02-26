@@ -6,7 +6,7 @@ name: Dieter Fox
 webpage: https://homes.cs.washington.edu/~fox/
 
 # Primary affiliation
-affil: University of Washington
+affil: UW ## University of Washington
 # Link to the primary affiliation
 affil_link: https://rse-lab.cs.washington.edu/
 
@@ -18,6 +18,8 @@ img: dieter.jpg # (place in the `assets/img/organizers` directory)
 affil2: NVIDIA
 # Link to the secondary affiliation
 affil2_link: https://research.nvidia.com/person/dieter-fox
+
+topic: Benchmarks
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

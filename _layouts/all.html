@@ -78,6 +78,12 @@ layout: default
 
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
+      <tr style="border: none;">
+        <th></th>
+        <th></th>
+        <th>Topic</th>
+        <th>Bio</th>
+      </tr>
       {% for speaker in site.speakers %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
@@ -120,6 +126,11 @@ layout: default
 		        </td>
 		        <td style="border: none;">
 		        	<div class="people-name text-center">
+		        		{{ speaker.topic }}
+		        	</div>
+		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-left">
 		        		{{ speaker.content }}
 		        	</div>
 		        </td>
@@ -140,7 +151,7 @@ layout: default
 	  <table style="border-collapse: collapse; border: none; ">
       <tr style="border: none;">
 	  	    {% for organizer in site.organizers %}
-		        <td style="border: none;">
+		        <td style="border: none; vertical-align: top;">
 		            <div class="col-xs-12">
 		                <p align="center">
 		                	{% if organizer.img_url %}
