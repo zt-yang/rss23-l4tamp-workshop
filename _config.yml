@@ -20,7 +20,7 @@
 
 title: L4TAMP @ RSS 2023
 email: ztyang@mit.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: > ## >- # this means to ignore newlines until "baseurl:"
   Proposed <a href="https://roboticsconference.org/">RSS 2023</a> workshop for Learning for Task and Motion Planning (L4TAMP), Jul 10 – Jul 14, 2023, at Daegu, Republic of Korea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
