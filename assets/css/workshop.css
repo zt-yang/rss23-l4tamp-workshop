@@ -92,3 +92,20 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+.secret {
+  font-weight: bold;
+  z-index:99;
+}
+
+.reveal {
+  display: none;
+}
+
+.secret:hover ~ .reveal {
+  display: block;
+  position: absolute;
+  background-color: rgba(1,1,1, 0.8);
+  color: white;
+  padding: 0.3em;
+}
