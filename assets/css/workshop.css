@@ -93,16 +93,17 @@ span.award-other img {
   padding-bottom: 8px;
 }
 
-.secret {
+/* ... */
+.secret1, .secret2, .secret3, .secret4, .secret5, .secret6, .secret7 {
   font-weight: bold;
   z-index:99;
 }
 
-.reveal {
+.reveal1, .reveal2, .reveal3, .reveal4, .reveal5, .reveal6, .reveal7 {
   display: none;
 }
 
-.secret:hover ~ .reveal {
+.secret1:hover ~ .reveal1, .secret2:hover ~ .reveal2, .secret3:hover ~ .reveal3, .secret4:hover ~ .reveal4, .secret5:hover ~ .reveal5, .secret6:hover ~ .reveal6, .secret7:hover ~ .reveal7 {
   display: block;
   position: absolute;
   background-color: rgba(1,1,1, 0.8);
