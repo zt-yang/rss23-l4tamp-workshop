@@ -38,8 +38,8 @@ Important dates:
 - Workshop: July 10
 
 Submission types:
-- Short paper: 4 pages (with appendix allowed). Can be work submitted to or accepted by other conferences or journals.
-- "Blue Sky" paper: 4 pages (please include “blue sky” in the title)
+- Short papers: 4 pages (with appendix allowed). Can be work submitted to or accepted by other conferences or journals.
+- "Blue Sky" papers: We seek "Blue Sky" submissions, recommended 2-4 pages in length, that present a novel high-level perspective of the challenges associated with learning for TAMP. Preference will be given to early career academics—senior graduate students, postdocs, and pre-tenure faculty. Blue Sky submissions are expected to have only a single author.
 
 
 ### Tentative Schedule
