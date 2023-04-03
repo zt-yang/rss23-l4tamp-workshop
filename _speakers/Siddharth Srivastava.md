@@ -25,4 +25,5 @@ topic: Algorithms for TAMP
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Siddharth Srivastava is an assistant professor at Arizona State University. He focuses on Sequential decision making, learning abstractions for reliable planning and learning, generalized planning, explainable AI, AI safety and AI assessment, knowledge representation, probabilistic programming, and probabilistic inference and machine learning.
+Siddharth Srivastava is an assistant professor at Arizona State University. His research focuses on learning generalizable knowledge for reliable sequential decision making, AI safety, and AI assessment. He is a recipient of the NSF CAREER award, a Best Paper award at the International Conference on Automated Planning and Scheduling (ICAPS) and an Outstanding Dissertation award from the Department of Computer Science at UMass Amherst. His work on TAMP focuses on well-founded algorithms for using abstractions for integrated task and motion planning, with an emphasis on learning transferrable state and action hierarchies. 
+
