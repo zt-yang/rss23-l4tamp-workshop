@@ -30,8 +30,8 @@ sudo gem install bundler jekyll
 Serve the website
 
 ```bash
-$ git clone git@github.com:zt-yang/rss23-l4tamp-workshop.git
-$ cd rss23-l4tamp-workshop
+$ git clone git@github.com:zt-yang/rss23-ltamp-workshop.git
+$ cd rss23-ltamp-workshop
 $ sudo bundle install
 $ bundle exec jekyll serve
 ## if I want instant update while I make changes to md files
