@@ -7,7 +7,7 @@ title: Home
 layout: all
 ---
 
-![LTAMP banner](https://zt-yang.github.io/rss23-ltamp-workshop/assets/img/LTAMP-banner.png)
+![LTAMP banner](https://zt-yang.github.io/rss23-l4tamp-workshop/assets/img/LTAMP-banner.png)
 
 This workshop will investigate the role of learning within Task and Motion Planning (TAMP). TAMP has shown remarkable capabilities in scaling to long action sequences, many objects and a variety of tasks. However, TAMP often relies on simplified models, assumes perfect world knowledge, and requires long computation time, which limits the real world applicability. To address these limitations, there has been significant recent interest in integrating learning methods into TAMP [
 <span class="secret1"><a href="https://proceedings.mlr.press/v164/ortiz-haro22a.html" target="_blank">1</a></span><span class="reveal1">Ortiz-Haro, J., Ha, J. S., Driess, D., & Toussaint, M. Structured deep generative models for sampling on constraint manifolds in sequential manipulation. CoRL 2022.</span>,
@@ -43,7 +43,7 @@ Submission types:
 - Short papers: 4 pages. Appendix is allowed with no page limit. Paper can be work submitted to or accepted by other conferences or journals.
 - "Blue Sky" papers: We seek "Blue Sky" submissions, recommended 2-4 pages in length, that present a novel high-level perspective of the challenges associated with learning for TAMP. Preference will be given to early career academics—senior graduate students, postdocs, and pre-tenure faculty. Blue Sky submissions are expected to have only a single author. Please include "[Blue Sky]" in the paper title.
 
-Please use this [Latex paper template](https://zt-yang.github.io/rss23-ltamp-workshop/assets/paper-template-latex.zip).
+Please use this [Latex paper template](https://zt-yang.github.io/rss23-l4tamp-workshop/assets/paper-template-latex.zip).
 
 ### Tentative Schedule
 
