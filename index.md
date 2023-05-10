@@ -78,7 +78,7 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
     <td>Invited Talks 4, 5, and 6</td>
   </tr>
   <tr>
-    <td>11:50 pm - 1:30 pm</td>
+    <td>12:00 pm - 1:30 pm</td>
     <td>Lunch</td>
   </tr>
   <tr>
