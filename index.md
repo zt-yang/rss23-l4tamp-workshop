@@ -62,48 +62,48 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
     <td>Introductory Remarks</td>
   </tr>
   <tr>
-    <td>09:10 am - 09:45 am</td>
-    <td>Invited Speakers 1, 2, and 3</td>
+    <td>09:10 am - 10:00 am</td>
+    <td>Invited Talks 1, 2, and 3</td>
   </tr>
   <tr>
-    <td>09:45 am - 10:15 am</td>
+    <td>10:00 am - 10:30 am</td>
     <td>Invited Speaker Panel 1</td>
   </tr>
   <tr>
-    <td>10:15 am - 10:45 am</td>
-    <td>Spotlight Posters 1</td>
+    <td>10:30 am - 11:00 am</td>
+    <td>Coffee Break / Posters 1</td>
   </tr>
   <tr>
-    <td>10:45 am - 11:20 am</td>
-    <td>Invited Speakers 4, 5, and 6</td>
+    <td>11:00 am - 12:00 pm</td>
+    <td>Invited Talks 4, 5, and 6</td>
   </tr>
   <tr>
-    <td>11:20 am - 11:50 am</td>
-    <td>Invited Speaker Panel 2</td>
-  </tr>
-  <tr>
-    <td>11:50 am - 01:00 pm</td>
+    <td>11:50 pm - 1:30 pm</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>01:00 pm - 01:35 pm</td>
-    <td>Invited Speakers 7, 8, and 9</td>
+    <td>1:30 pm - 2:00 pm</td>
+    <td>Invited Speaker Panel 2</td>
   </tr>
   <tr>
-    <td>01:35 pm - 02:05 pm</td>
+    <td>2:00 pm - 3:00 pm</td>
+    <td>Poster Spotlight Talks</td>
+  </tr>
+  <tr>
+    <td>3:00 pm - 3:30 pm</td>
+    <td>Coffee Break / Posters 2</td>
+  </tr>
+  <tr>
+    <td>3:30 pm - 4:20 pm</td>
+    <td>Invited Talks 7, 8, and 9</td>
+  </tr>
+  <tr>
+    <td>4:20 pm - 4:50 pm</td>
     <td>Invited Speaker Panel 3</td>
   </tr>
   <tr>
-    <td>02:05 pm - 02:35 pm</td>
-    <td>Spotlight Posters 2</td>
-  </tr>
-  <tr>
-    <td>02:35 pm - 02:45 pm</td>
+    <td>4:50 pm - 5:00 pm</td>
     <td>Conclusion Remarks</td>
-  </tr>
-  <tr>
-    <td>02:45 pm - 04:45 pm</td>
-    <td>Poster Session</td>
   </tr>
 </tbody>
 </table>
