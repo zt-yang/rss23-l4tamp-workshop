@@ -34,7 +34,7 @@ The goal of this workshop is to bring together a diverse set of researchers from
 
 Important dates:
 - Submission open: May 1
-- Submission deadline: **May 19**
+- Submission deadline: ~~May 19~~ **May 24**
 - Paper acceptance notification: June 10
 - Camera ready due: July 1
 - Workshop: July 10
