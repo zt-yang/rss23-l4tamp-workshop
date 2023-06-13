@@ -35,7 +35,7 @@ The goal of this workshop is to bring together a diverse set of researchers from
 Important dates (AoE):
 - ~~Submission open: May 1~~
 - ~~Submission deadline: May 24~~
-- Paper acceptance notification: ~~June 10~~ **June 12**
+- Paper acceptance notification: ~~June 10~~ ~~June 12~~ **June 13**
 - Camera ready due: July 1
 - Workshop: July 10
 
