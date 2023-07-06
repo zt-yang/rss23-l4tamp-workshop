@@ -45,9 +45,11 @@ Submission types:
 
 Please use this [Latex paper template](https://zt-yang.github.io/rss23-l4tamp-workshop/assets/paper-template-latex.zip) and [submit](https://openreview.net/group?id=roboticsfoundation.org/RSS/2023/Workshop/LTAMP) via Open Review. Review will be single-blind so there's no need to anonymize your document.
 
-### Tentative Schedule
+### Final Schedule
 
-The workshop will happen on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea.  
+The workshop will happen on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea. 
+
+**Room number: 323.** The virtual workshop Zoom session can be accessed through the 'Sessions' Tab at [https://pheedloop.com/RSS2023/virtual/](https://pheedloop.com/RSS2023/virtual/). 
 
 <table>
 <thead>
