@@ -35,8 +35,8 @@ The goal of this workshop is to bring together a diverse set of researchers from
 Important dates (AoE):
 - ~~Submission open: May 1~~
 - ~~Submission deadline: May 24~~
-- Paper acceptance notification: ~~June 10~~ ~~June 12~~ **June 13**
-- Camera ready due: July 1
+- ~~Paper acceptance notification: June 13~~ 
+- ~~Camera-ready due: July 1~~
 - Workshop: July 10
 
 Submission types:
@@ -58,52 +58,76 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
 </thead>
 <tbody>
   <tr>
-    <td>09:00 am - 09:10 am</td>
+    <td>9:00 am - 9:10 am</td>
     <td>Introductory Remarks</td>
   </tr>
   <tr>
-    <td>09:10 am - 10:00 am</td>
-    <td>Invited Talks 1, 2, and 3</td>
+    <td>9:10 am - 9:25 am</td>
+    <td>Invited Talks 1: Hector Geffner</td>
   </tr>
   <tr>
-    <td>10:00 am - 10:30 am</td>
-    <td>Invited Speaker Panel 1</td>
+    <td>9:25 am - 9:40 am</td>
+    <td>Invited Talks 2: Pratyusha Sharma</td>
+  </tr>
+  <tr>
+    <td>9:40 am - 9:55 am</td>
+    <td>Invited Talks 3: Dieter Fox (Remote)</td>
+  </tr>
+  <tr>
+    <td>9:55 am - 10:30 am</td>
+    <td>Panel 1: Dieter Fox (Remote), Pratyusha Sharma, Hector Geffner</td>
   </tr>
   <tr>
     <td>10:30 am - 11:00 am</td>
-    <td>Coffee Break / Posters 1</td>
+    <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>11:00 am - 12:00 pm</td>
-    <td>Invited Talks 4, 5, and 6</td>
+    <td>11:00 am - 11:15 am</td>
+    <td>Spotlight Talks 1: Nishanth Kumar, Willie McClinton (Remote)</td>
+  </tr>
+  <tr>
+    <td>11:15 am - 11:30 am</td>
+    <td>Spotlight Talks 2: Robert Gieselmann</td>
+  </tr>
+  <tr>
+    <td>11:30 am - 11:45 am</td>
+    <td>Spotlight Talks 3: Nina Marie Moorman</td>
+  </tr>
+  <tr>
+    <td>11:45 am - 12:00 pm</td>
+    <td>Spotlight Talks 4: Zirui Zhao</td>
   </tr>
   <tr>
     <td>12:00 pm - 1:30 pm</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>1:30 pm - 2:00 pm</td>
-    <td>Invited Speaker Panel 2</td>
-  </tr>
-  <tr>
-    <td>2:00 pm - 3:00 pm</td>
-    <td>Poster Spotlight Talks</td>
+    <td>1:30 pm - 3:00 pm</td>
+    <td>Poster session</td>
   </tr>
   <tr>
     <td>3:00 pm - 3:30 pm</td>
-    <td>Coffee Break / Posters 2</td>
+    <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>3:30 pm - 4:20 pm</td>
-    <td>Invited Talks 7, 8, and 9</td>
+    <td>3:30 pm - 3:45 pm</td>
+    <td>Invited Talks 4: Siddharth Srivastava</td>
   </tr>
   <tr>
-    <td>4:20 pm - 4:50 pm</td>
-    <td>Invited Speaker Panel 3</td>
+    <td>3:45 pm - 4:00 pm</td>
+    <td>Invited Talks 5: Florian Shkurti</td>
+  </tr>
+  <tr>
+    <td>4:00 pm - 4:15 pm</td>
+    <td>Invited Talks 6: Masataro Asai (Remote)</td>
+  </tr>
+  <tr>
+    <td>4:15 pm - 4:50 pm</td>
+    <td>Panel 2: Masataro Asai (Remote), Siddharth Srivastava, Florian Shkurti</td>
   </tr>
   <tr>
     <td>4:50 pm - 5:00 pm</td>
-    <td>Conclusion Remarks</td>
+    <td>Conclusion Remarks / Best Paper Award</td>
   </tr>
 </tbody>
 </table>
