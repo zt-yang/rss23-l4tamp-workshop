@@ -30,21 +30,6 @@ The goal of this workshop is to bring together a diverse set of researchers from
 - **Model Learning**: Techniques and principles for learning discrete or continuous transition models from interaction data.
 
 
-### Call for Papers
-
-Important dates (AoE):
-- ~~Submission open: May 1~~
-- ~~Submission deadline: May 24~~
-- ~~Paper acceptance notification: June 13~~ 
-- ~~Camera-ready due: July 1~~
-- Workshop: July 10
-
-Submission types:
-- **Short papers**: 4 pages. Appendix is allowed with no page limit, included in the same document as main text. Paper can be work submitted to or accepted by other conferences or journals.
-- **"Blue Sky" papers**: We seek "Blue Sky" submissions, recommended 2-4 pages in length, that present a novel high-level perspective of the challenges associated with learning for TAMP. Preference will be given to early career academics—senior graduate students, postdocs, and pre-tenure faculty. Blue Sky submissions are expected to have only a single author. Please include "[Blue Sky]" in the paper title.
-
-Please use this [Latex paper template](https://zt-yang.github.io/rss23-l4tamp-workshop/assets/paper-template-latex.zip) and [submit](https://openreview.net/group?id=roboticsfoundation.org/RSS/2023/Workshop/LTAMP) via Open Review. Review will be single-blind so there's no need to anonymize your document.
-
 ### Final Schedule
 
 The workshop will happen on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea. 
@@ -133,3 +118,18 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
   </tr>
 </tbody>
 </table>
+
+### Call for Papers
+
+Important dates (AoE):
+- ~~Submission open: May 1~~
+- ~~Submission deadline: May 24~~
+- ~~Paper acceptance notification: June 13~~ 
+- ~~Camera-ready due: July 1~~
+- Workshop: July 10
+
+Submission types:
+- **Short papers**: 4 pages. Appendix is allowed with no page limit, included in the same document as main text. Paper can be work submitted to or accepted by other conferences or journals.
+- **"Blue Sky" papers**: We seek "Blue Sky" submissions, recommended 2-4 pages in length, that present a novel high-level perspective of the challenges associated with learning for TAMP. Preference will be given to early career academics—senior graduate students, postdocs, and pre-tenure faculty. Blue Sky submissions are expected to have only a single author. Please include "[Blue Sky]" in the paper title.
+
+Please use this [Latex paper template](https://zt-yang.github.io/rss23-l4tamp-workshop/assets/paper-template-latex.zip) and [submit](https://openreview.net/group?id=roboticsfoundation.org/RSS/2023/Workshop/LTAMP) via Open Review. Review will be single-blind so there's no need to anonymize your document.
