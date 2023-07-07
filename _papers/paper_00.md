@@ -17,4 +17,5 @@ openreview: https://openreview.net/forum?id=YZagKndI5J
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: 00.jpeg
+poster: 00.pdf
 ---
