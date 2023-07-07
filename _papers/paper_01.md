@@ -4,5 +4,6 @@ title: Large Language Models as Commonsense Knowledge for Large-Scale Task Plann
 authors:  Zirui Zhao, Wee Sun Lee, David Hsu 
 affil: National University of Singapore
 openreview: https://openreview.net/forum?id=tED747HURfX
-img: 01.png
+img: 01.jpeg
+poster: 01.pdf
 ---
