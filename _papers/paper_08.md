@@ -4,5 +4,6 @@ title: "ReorientDiff: Diffusion Model based Reorientation for Object Manipulatio
 authors:  Utkarsh Aashu Mishra, Yongxin Chen 
 affil: Georgia Institute of Technology
 openreview: https://openreview.net/forum?id=VPg6eUqj82
-img: 08.png
+img: 08.jpeg
+poster: 08.pdf
 ---
