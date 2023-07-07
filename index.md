@@ -50,7 +50,7 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
   </tr>
   <tr>
     <td>9:10 am - 9:25 am</td>
-    <td>Invited Talks 1: Hector Geffner</td>
+    <td>Invited Talks 1: Siddharth Srivastava</td>
   </tr>
   <tr>
     <td>9:25 am - 9:40 am</td>
@@ -62,7 +62,7 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
   </tr>
   <tr>
     <td>9:55 am - 10:30 am</td>
-    <td>Panel 1: Dieter Fox (Remote), Pratyusha Sharma, Hector Geffner</td>
+    <td>Panel 1: Dieter Fox (Remote), Pratyusha Sharma, Siddharth Srivastava</td>
   </tr>
   <tr>
     <td>10:30 am - 11:00 am</td>
@@ -98,7 +98,7 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
   </tr>
   <tr>
     <td>3:30 pm - 3:45 pm</td>
-    <td>Invited Talks 4: Siddharth Srivastava</td>
+    <td>Invited Talks 4: Hector Geffner</td>
   </tr>
   <tr>
     <td>3:45 pm - 4:00 pm</td>
@@ -110,7 +110,7 @@ The workshop will happen on July 10 in hybrid mode. The in-person location is in
   </tr>
   <tr>
     <td>4:15 pm - 4:50 pm</td>
-    <td>Panel 2: Masataro Asai (Remote), Siddharth Srivastava, Florian Shkurti</td>
+    <td>Panel 2: Masataro Asai (Remote), Hector Geffner, Florian Shkurti</td>
   </tr>
   <tr>
     <td>4:50 pm - 5:00 pm</td>
