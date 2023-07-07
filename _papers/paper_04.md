@@ -4,5 +4,6 @@ title: "Energy-based Models are Zero-Shot Planners for Compositional Scene Rearr
 authors:  Nikolaos Gkanatsios, Ayush Jain, Zhou Xian, Yunchu Zhang, Christopher G Atkeson, Katerina Fragkiadaki 
 affil: Carnegie Mellon University
 openreview: https://openreview.net/forum?id=RHF3KqNSOZl
-img: 04.png
+img: 04.jpeg
+poster: 04.pdf
 ---
