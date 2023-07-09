@@ -34,7 +34,9 @@ The goal of this workshop is to bring together a diverse set of researchers from
 
 The workshop will happen on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea. 
 
-**Room number: 323.** The virtual workshop Zoom session can be accessed through the 'Sessions' Tab at [https://pheedloop.com/RSS2023/virtual/](https://pheedloop.com/RSS2023/virtual/). 
+Location: **Room number: 323.** The virtual workshop Zoom session can be accessed through the 'Sessions' Tab at [https://pheedloop.com/RSS2023/virtual/](https://pheedloop.com/RSS2023/virtual/). 
+
+Questions for the panelists can be submitted via this [slido link](https://app.sli.do/event/aN48uvLhPLuwVRSH96f91g/live/questions) (no sign-up required).
 
 <table>
 <thead>
