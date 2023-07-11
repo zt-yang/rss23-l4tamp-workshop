@@ -23,20 +23,18 @@ The goal of this workshop is to bring together a diverse set of researchers from
 #### Discussion Topics
 
 - **Benchmarks**: What benchmark environments will help the community better measure the progress of TAMP and integrate learning with TAMP?
-- **Large Language Models for Task Planning**: LLM has shown promises in generalizable task planning. What are the potentials and challenges in integrating LLM with TAMP?
+- **Large Language Models for Task Planning**: LLM has shown promise in generalizable task planning. What are the potentials and challenges in integrating LLM with TAMP?
 - **Perception**: Perception in TAMP and the latest developments in this area, including 3D computer vision, open-world recognition, and sensor fusion.
 - **Error Recovery / Closed-Loop TAMP**: Techniques and principles that allow TAMP to be more robust and recover from errors and interventions.
 - **Skill Learning / Manipulation**: Skill learning and manipulation for TAMP, including but not limited to deep reinforcement learning and imitation learning. How do we make the learned skills generalizable and composable?
 - **Model Learning**: Techniques and principles for learning discrete or continuous transition models from interaction data.
 
 
-### Final Schedule
+### Schedule
 
-The workshop will happen on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea. 
+The workshop happened on July 10 in hybrid mode. The in-person location is in Daegu, Republic of Korea. 
 
-Location: **Room number: 323.** The virtual workshop Zoom session can be accessed through the 'Sessions' Tab at [https://pheedloop.com/RSS2023/virtual/](https://pheedloop.com/RSS2023/virtual/). 
-
-Questions for the panelists can be submitted via this [slido link](https://app.sli.do/event/aN48uvLhPLuwVRSH96f91g/live/questions) (no sign-up required).
+The [recording of the workshop](https://youtu.be/5VN7T0HujnQ) can be accessed on YouTube.
 
 <table>
 <thead>
