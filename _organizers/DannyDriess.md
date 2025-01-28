@@ -11,8 +11,7 @@ affil: TU Berlin
 affil_link: https://www.scienceofintelligence.de/
 
 # An image of the organizer (square aspect ratio works the best)
-# img: jane.jpg # (place in the `assets/img/organizers` directory)
-img_url: https://pbs.twimg.com/profile_images/1534203253407236099/-Fw_Bm3U_400x400.jpg
+img: danny.jpg 
 
 # Secondary affiliation
 affil2: IMPRS-IS
