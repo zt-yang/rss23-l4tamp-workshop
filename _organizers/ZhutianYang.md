@@ -12,7 +12,7 @@ affil_link: http://lis.csail.mit.edu/
 
 # An image of the organizer (square aspect ratio works the best)
 # img: jane.jpg # (place in the `assets/img/organizers` directory)
-img_url: https://raw.githubusercontent.com/zt-yang/zhutian-yang-website/main/img/zhutianyang.jpg?token=GHSAT0AAAAAABZLZPSEQFWPM4YB67NHZED4Y3CZFKQ
+img_url: https://raw.githubusercontent.com/zt-yang/zhutian-yang-website/refs/heads/main/img/zhutianyang.jpg
 
 # Secondary affiliation
 # affil2: 
